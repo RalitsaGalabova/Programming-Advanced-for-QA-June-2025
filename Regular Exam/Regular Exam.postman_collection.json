@@ -1,0 +1,227 @@
+{
+	"info": {
+		"_postman_id": "dc780cd3-4575-4b84-9da5-c714438be9f3",
+		"name": "Regular Exam",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43908816",
+		"_collection_link": "https://softuni-5184.postman.co/workspace/6ff860a4-9bec-4e82-8f29-75b9261087d6/collection/43908816-dc780cd3-4575-4b84-9da5-c714438be9f3?action=share&source=collection_link&creator=43908816"
+	},
+	"item": [
+		{
+			"name": "Register User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userName\": \"Rally1\",\r\n    \"firstName\": \"Ralitsa\",\r\n    \"lastName\": \"Galabova\",\r\n    \"email\": \"rally@mail.com\",\r\n    \"password\": \"testpassword\",\r\n    \"rePassword\": \"testpassword\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d24hkho2ozf732.cloudfront.net/api/User/Register",
+					"protocol": "https",
+					"host": [
+						"d24hkho2ozf732",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"User",
+						"Register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Authentication",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"rally@mail.com\",\r\n    \"password\": \"testpassword\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d24hkho2ozf732.cloudfront.net/api/User/Authentication",
+					"protocol": "https",
+					"host": [
+						"d24hkho2ozf732",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"User",
+						"Authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add movie",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Ice Age 2\",\r\n    \"description\": \"My second movie description\",\r\n    \"posterUrl\": \"\",\r\n    \"trailerLink\": \"https://www.youtube.com/watch?v=i4noiCRJRoE\",\r\n    \"isWatched\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Movie/Create",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Movie",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List all movies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}/api/Catalog/All",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Catalog",
+						"All"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Change title",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Ice Age - Edited\",\r\n    \"description\": \"My first movie description\",\r\n    \"posterUrl\": \"\",\r\n    \"trailerLink\": \"https://www.youtube.com/watch?v=i4noiCRJRoE\",\r\n    \"isWatched\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Movie/Edit?movieId=8d66a52b-9b0a-4575-a421-08dd71dd43c0",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Movie",
+						"Edit"
+					],
+					"query": [
+						{
+							"key": "movieId",
+							"value": "8d66a52b-9b0a-4575-a421-08dd71dd43c0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete revue",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{endpoint}}/api/Movie/Delete?movieId=ea5885eb-8c56-4d2d-a425-08dd71dd43c0",
+					"host": [
+						"{{endpoint}}"
+					],
+					"path": [
+						"api",
+						"Movie",
+						"Delete"
+					],
+					"query": [
+						{
+							"key": "movieId",
+							"value": "ea5885eb-8c56-4d2d-a425-08dd71dd43c0"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIzNGVlYzg2NS0wY2MyLTQxM2EtYTUwYS03MDMyMmUyMmVkZWEiLCJpYXQiOiIwNC8xMi8yMDI1IDA4OjUyOjU5IiwiVXNlcklkIjoiNDRhYTg0MDAtYzdiOS00ZWFiLWY5YjMtMDhkZDZiYWY0ZTQzIiwiRW1haWwiOiJyYWxseUBtYWlsLmNvbSIsIlVzZXJOYW1lIjoiUmFsbHkxIiwiZXhwIjoxNzQ0NDY5NTc5LCJpc3MiOiJNb3ZpZUNhdGFsb2dfQXBwX1NvZnRVbmkiLCJhdWQiOiJNb3ZpZUNhdGFsb2dfV2ViQVBJX1NvZnRVbmkifQ.EwK365-_72gxRU4ZJjHcrmI1qczaIpH-IheEIH1nzSQ",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "endpoint",
+			"value": "https://d24hkho2ozf732.cloudfront.net",
+			"type": "string"
+		}
+	]
+}
