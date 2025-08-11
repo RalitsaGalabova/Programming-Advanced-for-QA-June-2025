@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\orderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\oddoccurrencestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\minertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\groupingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countrealnumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\exercise-dictionaries-lambda-linq-and-unit-testing\\testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\countcharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:55:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OrdersTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\OrdersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OrdersTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:52:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OddOccurrencesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\OddOccurrencesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\OddOccurrencesTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:48:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\MinerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\MinerTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\MinerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\MinerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:46:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupingTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\GroupingTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\GroupingTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\GroupingTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:43:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountRealNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\CountRealNumbersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountRealNumbersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:39:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountCharactersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CountCharactersTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Exercise-dictionaries-lambda-LINQ-and-unit-testing\\TestApp.Tests\\CountCharactersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CountCharactersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:33:56.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
