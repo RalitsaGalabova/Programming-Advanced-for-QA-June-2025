@@ -1,0 +1,21 @@
+{
+  "name": "choose-your-car",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "unit testing - exam problem",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "SU",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
