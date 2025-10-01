@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Regular-Exam-17.08.2025\\01-Digits_And_Symbols_Counter_Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5858B356-9AA2-4FA8-B1B9-06972F597A21}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\regular-exam-17.08.2025\\01-digits_and_symbols_counter_resources\\testapp.tests\\digitandsymbolcountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5858B356-9AA2-4FA8-B1B9-06972F597A21}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\digitandsymbolcountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFC0236-0284-45AB-A821-9DFF6665AD47}|TestApp\\TestApp.csproj|c:\\users\\rally\\desktop\\qa-softuni\\programming-advanced-for-qa-june-2025\\regular-exam-17.08.2025\\01-digits_and_symbols_counter_resources\\testapp\\digitandsymbolcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFC0236-0284-45AB-A821-9DFF6665AD47}|TestApp\\TestApp.csproj|solutionrelative:testapp\\digitandsymbolcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DigitAndSymbolCounterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Regular-Exam-17.08.2025\\01-Digits_And_Symbols_Counter_Resources\\TestApp.Tests\\DigitAndSymbolCounterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\DigitAndSymbolCounterTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Regular-Exam-17.08.2025\\01-Digits_And_Symbols_Counter_Resources\\TestApp.Tests\\DigitAndSymbolCounterTests.cs*",
+              "RelativeToolTip": "TestApp.Tests\\DigitAndSymbolCounterTests.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T06:11:55.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigitAndSymbolCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Regular-Exam-17.08.2025\\01-Digits_And_Symbols_Counter_Resources\\TestApp\\DigitAndSymbolCounter.cs",
+              "RelativeDocumentMoniker": "TestApp\\DigitAndSymbolCounter.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Programming-Advanced-for-QA-June-2025\\Regular-Exam-17.08.2025\\01-Digits_And_Symbols_Counter_Resources\\TestApp\\DigitAndSymbolCounter.cs",
+              "RelativeToolTip": "TestApp\\DigitAndSymbolCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T06:12:03.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
