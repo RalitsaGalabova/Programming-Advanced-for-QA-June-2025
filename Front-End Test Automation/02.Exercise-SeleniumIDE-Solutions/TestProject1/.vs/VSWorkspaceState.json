@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestProject1",
+    "\\TestProject1\\bin",
+    "\\TestProject1\\bin\\Debug",
+    "\\TestProject1\\bin\\Release",
+    "\\TestProject1\\obj"
+  ],
+  "SelectedNode": "\\TestProject1\\TC01IfUserIsInvalidTryAgainTest.cs",
+  "PreviewInSolutionExplorer": false
+}

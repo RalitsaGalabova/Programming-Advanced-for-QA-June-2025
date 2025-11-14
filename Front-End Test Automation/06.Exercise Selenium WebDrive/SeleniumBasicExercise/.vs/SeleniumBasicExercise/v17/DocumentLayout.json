@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155E448B-06F4-45BF-B6CF-C74992F653C6}|DataDriven\\DataDriven.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\solutions\\seleniumbasicexercise\\datadriven\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155E448B-06F4-45BF-B6CF-C74992F653C6}|DataDriven\\DataDriven.csproj|solutionrelative:datadriven\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94613D4B-2310-4706-B606-36BAD38E5FDB}|HTMLElements03\\HTMLElements03.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\solutions\\seleniumbasicexercise\\htmlelements03\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94613D4B-2310-4706-B606-36BAD38E5FDB}|HTMLElements03\\HTMLElements03.csproj|solutionrelative:htmlelements03\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFADEC90-CD43-4B22-9D59-DAD5017E3049}|HTML_Elements_02\\HTMLElements02.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\solutions\\seleniumbasicexercise\\html_elements_02\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFADEC90-CD43-4B22-9D59-DAD5017E3049}|HTML_Elements_02\\HTMLElements02.csproj|solutionrelative:html_elements_02\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8F0A09-50AC-4AB0-9CB3-96D2F8826D90}|HTML_Elements_01\\HTMLElements01.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\solutions\\seleniumbasicexercise\\html_elements_01\\fillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8F0A09-50AC-4AB0-9CB3-96D2F8826D90}|HTML_Elements_01\\HTMLElements01.csproj|solutionrelative:html_elements_01\\fillform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\DataDriven\\TestCalculator.cs",
+              "RelativeDocumentMoniker": "DataDriven\\TestCalculator.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\DataDriven\\TestCalculator.cs",
+              "RelativeToolTip": "DataDriven\\TestCalculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:43:25.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTML_Elements_02\\Table.cs",
+              "RelativeDocumentMoniker": "HTML_Elements_02\\Table.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTML_Elements_02\\Table.cs",
+              "RelativeToolTip": "HTML_Elements_02\\Table.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:41:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTMLElements03\\DropDown.cs",
+              "RelativeDocumentMoniker": "HTMLElements03\\DropDown.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTMLElements03\\DropDown.cs",
+              "RelativeToolTip": "HTMLElements03\\DropDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:33:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FillForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTML_Elements_01\\FillForm.cs",
+              "RelativeDocumentMoniker": "HTML_Elements_01\\FillForm.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\Solutions\\SeleniumBasicExercise\\HTML_Elements_01\\FillForm.cs",
+              "RelativeToolTip": "HTML_Elements_01\\FillForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:53:53.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
